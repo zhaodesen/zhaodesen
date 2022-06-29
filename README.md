@@ -1,3 +1,4 @@
+### Hi there 👋 I'm zhaodesen
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,3 +10,12 @@
 - ⚡ Fun fact: ...
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=zhaodesen&theme=radical)
+
+
+### 📊 GitHub Stats:
+---
+![zhaodesen github stats](https://github-readme-stats.vercel.app/api?username=zhaodesen&theme=radical&show_icons=true&count_private=true)
+
+![zhaodesen Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhaodesen&theme=solarized_dark)
+![zhaodesen Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhaodesen&theme=solarized_dark)
+![zhaodesen Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhaodesen&theme=solarized_dark)
