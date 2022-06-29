@@ -9,7 +9,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=zhaodesen&theme=radical)
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 
 ### 📊 GitHub Stats:
