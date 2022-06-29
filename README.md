@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats:
 ---
-![zhaodesen github stats](https://github-readme-stats.vercel.app/api?username=zhaodesen&theme=radical&show_icons=true&count_private=true)
+![zhaodesen github stats](https://github-readme-stats.vercel.app/api?username=zhaodesen&theme=radical&show_icons=true)
 
 ![zhaodesen Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhaodesen&theme=solarized_dark)
 ![zhaodesen Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhaodesen&theme=solarized_dark)
