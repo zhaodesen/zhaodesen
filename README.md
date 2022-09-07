@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+- 🔭 成为一名优秀的前端工程师
+- 🌱 向优秀的前端前辈学习
+- 👯 努力学习中...
