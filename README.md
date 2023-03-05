@@ -9,6 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 很开心能够做着自己喜欢做的事情
-- 🌱 美食爱好者
-- 👯 学习ing
+- 😄 Love food and JavaScript
