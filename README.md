@@ -2,7 +2,7 @@
 
 I'm `Zhao Desen`
 
-I have a passion for both `food` and `programming`. and I'm currently dedicating myself to learning `front-end development`. 
+I have a passion for both `food` and `programming`
 
 I have many ideas. and I hope to bring them to life through programming!
 <!--
